@@ -1,23 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:39.716380
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:37
 #+TITLE: 二諦義
 #+PROPERTY: CBETA_ID T45n1854
 #+PROPERTY: ID KR6m0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1854
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0034_T_000-0077b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0034_T_001-0077b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1854¶
+No. 1854¶
 
-補刻二諦章敘
-:PROPERTIES:
-:head: 補刻二諦章敘
-:END:
-¶
+* 補刻二諦章敘¶
 
 嘉祥藏大師所撰二諦義章三卷。傳流吾國¶
 已來。僅一千年奇矣。寵藏之古名藍之間。而¶
@@ -47,11 +43,7 @@ No.1854¶
 　洛西五智山沙門慧旭寂謹書於忘慮亭¶
 ¶
 
-鐫二諦章敘
-:PROPERTIES:
-:head: 鐫二諦章敘
-:END:
-¶
+* 鐫二諦章敘¶
 
 夫不了二諦。則契實之境。照俗之智。不可融¶
 徹。境智不融徹。而入薩波若海者。未有之也。¶
@@ -72,8 +64,7 @@ No.1854¶
 
 　東奧仙臺龍寶實養題於洛之陀峯下¶
 ¶
-
- 上二諦義卷上¶
+二諦義卷上¶
 ¶
 胡吉藏撰¶
 

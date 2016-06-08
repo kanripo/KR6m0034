@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:39.770321
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:37
 #+TITLE: 二諦義
 #+PROPERTY: CBETA_ID T45n1854
 #+PROPERTY: ID KR6m0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1854
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0034_T_000-0077b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0034_T_002-0092c> ¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 中二諦義中卷¶
+二諦義中卷¶
 ¶
 胡吉藏撰¶
 

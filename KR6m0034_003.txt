@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:39.817009
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:37
 #+TITLE: 二諦義
 #+PROPERTY: CBETA_ID T45n1854
 #+PROPERTY: ID KR6m0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1854
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0034_T_000-0077b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0034_T_003-0104c> ¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
 ¶
-
- 下二諦義卷下¶
+二諦義卷下¶
 ¶
 胡吉藏撰¶
 
@@ -681,8 +680,7 @@
 為三無為。皆世諦故。有為無為相待也。問有¶
 為待無為。無為有體。無為有名。無為之名。為¶
 是有為為是無為耶。解云。無為之名。是無常¶
-是有為。無為常法無名也。難。無為之名。是¶
-無常是有為。無為常法無名也。難。無為無名。¶
+是有為。無為常法無名也。難。無為之名。是無常是有為。無為常法無名也。難。無為無名。¶
 無為既待。真諦無名。真諦亦待。真諦無名。真¶
 諦不待。無為無名。無為不待。此正就俱無名¶
 為難也。次明今釋二諦絕名。師從來有四句。¶
