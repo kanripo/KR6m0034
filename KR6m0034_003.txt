@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:39.817009
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:37
 #+TITLE: 二諦義
 #+PROPERTY: CBETA_ID T45n1854
 #+PROPERTY: ID KR6m0034

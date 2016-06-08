@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:39.716380
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:37
 #+TITLE: 二諦義
 #+PROPERTY: CBETA_ID T45n1854
 #+PROPERTY: ID KR6m0034
@@ -13,7 +13,7 @@
 ¶
 No.1854¶
 
-補刻二諦章敘
+* 補刻二諦章敘
 :PROPERTIES:
 :head: 補刻二諦章敘
 :END:
@@ -47,7 +47,7 @@ No.1854¶
 　洛西五智山沙門慧旭寂謹書於忘慮亭¶
 ¶
 
-鐫二諦章敘
+* 鐫二諦章敘
 :PROPERTIES:
 :head: 鐫二諦章敘
 :END:
